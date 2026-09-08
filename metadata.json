@@ -1,0 +1,6 @@
+{
+  "name": "CRTVSANTOS — Estúdio Criativo",
+  "description": "Estúdio criativo independente especializado em Social Media, Design e Comunicação estratégica para marcas com propósito.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
